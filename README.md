@@ -28,7 +28,7 @@ The goal of this testing is to ensure that all fields on the Facebook Sign-Up fo
 | TC001 | Verify that the Sign-Up page loads correctly | User is on Facebook home page | 1. Navigate to Facebook.com <br> 2. Click on "Create new account" | Sign-Up page should open successfully | High | Approved |
 | TC002 | Verify successful sign-up with valid details | Sign-Up page is open | 1. Enter valid info and click Sign Up | Account created successfully | Critical | Approved |
 
-👉 The full test suite can be found in the CSV file inside this repository.
+👉 The full test suite can be found in the xslx or the pdf file inside this repository.
 
 ---
 
